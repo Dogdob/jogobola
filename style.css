@@ -10,7 +10,7 @@
     margin: 0 auto;
     position: relative;
     overflow: hidden;
-    background: linear-gradient(#87CEEB,#E0F6FF);
+    background: linear-gradient(rgb(43, 43, 177), #87CEEB,#E0F6FF);
     
 }
 .pipe{
